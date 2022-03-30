@@ -4,9 +4,9 @@
 :: Please see "First Time Configuration" in README.md before changing stuff here.
 
 set firewallRuleName=gtao-solitude
-set networkTimeout=5
-set repeatInterval=10
-set startupDelay=5
+set networkTimeout=15
+set repeatInterval=180
+set startupDelay=240
 
 
 :: --- Magic ---
