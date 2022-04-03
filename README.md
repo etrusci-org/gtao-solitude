@@ -19,6 +19,8 @@ Play in a public GTA Online session with all game activities enabled, but in pea
 
 The script blocks specific internet ports from time to time. This will result in other players "leaving" your session (but in reality you're the one who's getting disconnected). The game doesn't get interrupted while this happens.
 
+Find a [demo video on YouTube](https://www.youtube.com/watch?v=a0FeJ0v3LoM).
+
 ---
 
 ## First Time Configuration
