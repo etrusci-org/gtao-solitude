@@ -1,6 +1,6 @@
 # gtao-solitude
 
-Play in a public GTA Online session with all game activities enabled, but in peace.
+Play in a public GTA Online session with all game activities enabled, but in peace. This approach is sometimes also called an "empty session generator".
 
 ---
 
@@ -17,7 +17,9 @@ Play in a public GTA Online session with all game activities enabled, but in pea
 
 ## What This Script Does
 
-The script blocks specific internet ports from time to time. This will result in other players "leaving" your session (but in reality you're the one who's getting disconnected). The game doesn't get interrupted while this happens.
+The script runs in a terminal window. It blocks specific internet ports from time to time. This will result in other players "leaving" your session (but in reality you're the one who's getting disconnected). The game doesn't get interrupted while this happens.
+
+No game files are touched during this process. It's neither hacking nor modding.
 
 Find a [demo video on YouTube](https://www.youtube.com/watch?v=a0FeJ0v3LoM).
 
