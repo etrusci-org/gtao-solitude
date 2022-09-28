@@ -2,6 +2,9 @@
 
 Play in a public GTA Online session with all game activities enabled, but in peace. This approach is sometimes also called an "empty session generator".
 
+**This script is finally obsolete since the "Criminal Enterprises Update 1.61".**
+> All Business activities, including Sell Missions, are now available to play in private sessions (Invite Only, Crew, and Friends)
+
 ---
 
 - [What This Script Does](#what-this-script-does)
